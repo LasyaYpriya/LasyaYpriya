@@ -110,8 +110,4 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lasyaypriya&show_icons=true&locale=en&layout=compact" alt="lasyaypriya" /></p>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+![snake gif](https://github.com/LasyaYpriya/LasyaYpriya/blob/output/github-snake-dark.svg)
